@@ -11,12 +11,8 @@ Click a link to jump to the relevant section.
 <HR>
 
 ## Documentation
-### General resources
-  - [FEMICOM Museum: The Casio Loopy Collection](http://femicom.org/loopy/) Historical information, interviews, scans, etc.
-### Marketing material
-Coming soon.
 ### Photos/scans
-  - [FEMICOM Museum: The Casio Loopy Collection](http://femicom.org/loopy/) Historical information, interviews, scans, etc.
+  - [FEMICOM Museum: The Casio Loopy Collection](http://femicom.org/loopy/)
 ### Playthrough videos
 Coming soon.
 ### Technical documentation
