@@ -16,6 +16,8 @@ Click a link to jump to the relevant section.
 ### Playthrough videos
 Coming soon.
 ### Technical documentation
+ - [Casio-Loopy-Fun](https://github.com/UnsatisfactoryResult/Casio-Loopy-Fun) :octocat:
+ - [Casio Loopy hardware details](https://docs.google.com/document/u/0/d/1pdENQW1TpfwI13OxSud_IjoWcnCqHppCCFDhUVSScKc/mobilebasic?pli=1)
   - [Loopy-Tools](https://github.com/kasamikona/Loopy-Tools) A collection of Loopy dev tools and documentation :octocat:
   - [Loopy-Schematics](https://github.com/kasamikona/Loopy-Schematics) Schematics of parts/accessories for the Casio Loopy. :octocat:
   - [US Patent 5,883,611](https://patentimages.storage.googleapis.com/fa/82/02/8e9ee361edde49/US5883611.pdf) "IMAGE CONTROLLER HAVING PRINTER," Casio Computer Co., Ltd.
@@ -48,6 +50,7 @@ None known. [Add one?]()
 ### Podcasts
  - [Emulating the Casio Loopy with Phil Bennett](http://femicom.org/research/emulating-the-casio-loopy-with-phil-bennett/)
 ### Print publications
+ - [Curious Video Game Machines](https://www.pen-and-sword.co.uk/Curious-Video-Game-Machines-Hardback/p/24332)
  - [The Game Console 2.0](https://nostarch.com/game-console-20)
 ### TV/film
 None known. [Add one?]()
